@@ -1,4 +1,4 @@
 ---
-Title: my-first-blog-post
-Date: 2022-22-05
+title: my-first-blog-post
+date: 2022-22-05
 ---
